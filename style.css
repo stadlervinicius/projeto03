@@ -1,13 +1,18 @@
-.cabecalho}
+.cabecalho{}
     background-color: aliceblue;
 }
 
 .principal{
 background-color: blue;
+color: rgb(85, 0, 0);
 }
-
 
 .rodape{
     background-color: aqua;
-}color:
-text
+color: red;
+text-align: center;}
+
+#img-flamengo{
+width: 400px;
+border: 2px blue double;
+}
