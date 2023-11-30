@@ -17,3 +17,8 @@
    border-color: brown;
    border-style: double;
 }
+#link-flamengo{
+   font-size: 20px;
+   color: pink;
+   text-decoration: none;
+}
